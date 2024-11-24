@@ -1,0 +1,7 @@
+# DEPENDENCIES
+**/node_modules
+
+# MISC
+.DS_Store
+.vscode
+.idea
